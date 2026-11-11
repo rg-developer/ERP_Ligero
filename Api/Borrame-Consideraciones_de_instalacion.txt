@@ -1,0 +1,5 @@
+- Crear Base de Datos MySQL manualmente
+- Ejecutar el Servidor con el property en update para crear las tablas y relaciones
+- Ejecutar Script inicial de BD
+
+- Opcional - Cambiar el properties a none
